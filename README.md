@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ivanpazm/ros2-intelligent-teleoperation/main/banner.svg" width="100%" />
+</p>
+
+
 # ROS2 Intelligent Teleoperation Platform (Local AI + MCP Tools + Web Operator UI)
 
 This repository contains the foundations of an intelligent teleoperation platform for mobile robots built on **ROS2**, featuring a **web‑based operator interface**, **local AI using Ollama**, **custom MCP tools**, and a **lightweight Android vision app**.
