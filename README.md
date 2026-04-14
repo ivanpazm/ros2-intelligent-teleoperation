@@ -17,13 +17,6 @@ This repository contains the foundations of an intelligent teleoperation platfor
 
 The entire system runs **100% locally**, with no cloud services, no external APIs, and no vendor lock‑in.
 
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
-![Ollama](https://img.shields.io/badge/AI-Ollama-green)
-![MCP](https://img.shields.io/badge/MCP-Custom-orange)
-![Android](https://img.shields.io/badge/Android-Vision_App-brightgreen)
-![WebUI](https://img.shields.io/badge/Web-Operator_UI-lightgrey)
-
-
 ---
 
 ## 🎥 Demo Video
