@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivanpazm/ros2-intelligent-teleoperation/main/banner.svg" width="100%" />
+  <img src="https://img.shields.io/badge/ROS2-Intelligent_Teleoperation_Platform-0d1117?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Local_AI-Ollama-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Custom_Tools-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-Operator_UI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Android-Vision_App-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-Free_100%25-red?style=flat-square" />
 </p>
 
 
